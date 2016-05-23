@@ -12,6 +12,7 @@
   "homepage": "https://github.com/bianjp/jwplayer",
   "bugs": "https://github.com/bianjp/jwplayer/issues",
   "author": "Bian Jiaping <ssbianjp@gmail.com> (https://vanitas.me/)",
+  "license": "MIT",
   "files": [
     "dist"
   ]

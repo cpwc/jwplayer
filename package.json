@@ -9,7 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/nedcl/jwplayer.git"
   },
-  "homepage": "https://github.com/nedcl/jwplayer",
+  "homepage": "https://github.com/bianjp/jwplayer",
+  "bugs": "https://github.com/bianjp/jwplayer/issues",
+  "author": "Bian Jiaping <ssbianjp@gmail.com> (https://vanitas.me/)",
   "files": [
     "dist"
   ]

@@ -25,7 +25,7 @@ else
       sed -i "s#\"version\":[ ]*\".*\"#\"version\": \"$version\"#" package.json
 
       # publish to npmjs.org
-      npm publish --access=public
+      npm version --access=public
     fi
   fi
 fi

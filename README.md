@@ -1,6 +1,6 @@
 # JW Player
 
-Bower and npm wrapper of [JW Player](http://www.jwplayer.com/) 7.4.2+.
+Bower and npm wrapper of [JW Player](http://www.jwplayer.com/) 7.4.3+.
 
 Bower:
 

@@ -1,6 +1,6 @@
 {
-  "version": "7.4.3",
   "name": "@bramus/jwplayer",
+  "version": "7.8.2",
   "description": "JWPlayer npm wrapper",
   "keywords": [
     "jwplayer"

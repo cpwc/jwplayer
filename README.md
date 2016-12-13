@@ -1,17 +1,9 @@
-# JW Player
+# JWPlayer
 
-Bower and npm wrapper of [JW Player](http://www.jwplayer.com/) 7.4.3+.
-
-Bower:
-
-```
-bower install --save nedcl/jwplayer
-```
+npm wrapper of [JWPlayer](http://www.jwplayer.com/) 7.8.2
 
 Npm:
 
 ```
-npm install --save @nedcl/jwplayer
+npm install --save @bramus/jwplayer
 ```
-
-Version number in git tags, bower.json and package.json keep in sync with JW Player.

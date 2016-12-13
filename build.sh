@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# The version to build, like "7.2.4"
+# The version to build, like "7.8.2"
 version=$1
 temp_dir=tmp
 

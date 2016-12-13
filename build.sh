@@ -21,7 +21,6 @@ else
       mv $temp_dir/jwplayer-* dist
 
       # update version number
-      sed -i "s#\"version\":[ ]*\".*\"#\"version\": \"$version\"#" bower.json
       sed -i "s#\"version\":[ ]*\".*\"#\"version\": \"$version\"#" package.json
 
       # publish to npmjs.org

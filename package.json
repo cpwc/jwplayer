@@ -1,17 +1,17 @@
 {
-  "name": "@nedcl/jwplayer",
   "version": "7.4.3",
-  "description": "JW Player npm wrapper",
+  "name": "@bramus/jwplayer",
+  "description": "JWPlayer npm wrapper",
   "keywords": [
     "jwplayer"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nedcl/jwplayer.git"
+    "url": "git+https://github.com/bramus/jwplayer.git"
   },
-  "homepage": "https://github.com/bianjp/jwplayer",
-  "bugs": "https://github.com/bianjp/jwplayer/issues",
-  "author": "Bian Jiaping <ssbianjp@gmail.com> (https://vanitas.me/)",
+  "homepage": "https://github.com/bramus/jwplayer",
+  "bugs": "https://github.com/bramus/jwplayer/issues",
+  "author": "Bram(us) Van Damme <bramus@bram.us>",
   "license": "MIT",
   "files": [
     "dist"

@@ -21,7 +21,10 @@ else
       mv $temp_dir/jwplayer-* dist
 
       # update version number
-      sed -i "s#\"version\":[ ]*\".*\"#\"version\": \"$version\"#" package.json
+      sed -i '' "s#\"version\":[ ]*\".*\"#\"version\": \"$version\"#" package.json
+      sed -i '' "s#length<2);var #length<1);var #" dist/jwplayer.js
+      sed -i '' "s#length>2||2===#length>1||1===#" dist/jwplayer.js
+      sed -i '' "/\!.&&2===/s/2/1/g" dist/jwplayer.js
 
       # publish to npmjs.org
       npm version --access=public

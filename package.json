@@ -1,6 +1,6 @@
 {
   "name": "@cpwc/jwplayer",
-  "version": "7.8.6",
+  "version": "8.1.12",
   "description": "JWPlayer npm wrapper",
   "keywords": [
     "jwplayer"
